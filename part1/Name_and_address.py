@@ -1,0 +1,7 @@
+name = input("Given name:")
+Family = input("Family name:")
+Streetaddress = input("Street address:")
+Citypostalcode = input("City and postal code:")
+print(name + " " + Family)
+print(Streetaddress)
+print(Citypostalcode)
