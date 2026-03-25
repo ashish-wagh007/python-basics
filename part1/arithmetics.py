@@ -1,0 +1,10 @@
+x = 27
+y = 15
+add = (x + y)
+subt = (x - y)
+mult = (x * y)
+div = (x / y)
+print(f"{x} + {y} = {add}")
+print(f"{x} - {y} = {subt}")
+print(f"{x} * {y} = {mult}")
+print(f"{x} / {y} = {div}")
