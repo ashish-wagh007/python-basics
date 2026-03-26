@@ -3,7 +3,7 @@
 This repository tracks my progress while learning Python.
 
 ## Progress
-- [ ] Part 1 - Getting started, variables, input, arithmetic, conditionals
+- [x] Part 1 - Getting started, variables, input, arithmetic, conditionals
 - [ ] Part 2 - Terminology, conditions, simple loops
 - [ ] Part 3 - More loops and strings
 - [ ] Part 4 - Functions, lists, iteration
